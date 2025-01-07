@@ -158,6 +158,9 @@ MAE measures the average absolute difference between predicted and actual values
 - **MF Embedding**: MAE = 0.5312, RMSE = 0.7288
 - **coClustering Model**: Precision@10 = 0.917, Recall@10 = 0.778, F1 Score = 0.842
 
+![image](https://github.com/user-attachments/assets/ab07b4a6-4f73-4d5f-af5b-6aee086a26db)
+
+
 ---
 
 ## Conclusions
