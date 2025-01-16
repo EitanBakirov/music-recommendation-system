@@ -2,7 +2,7 @@
 
 This project focuses on creating a personalized music recommendation system designed to deliver an enhanced listening experience by suggesting the top 10 songs to users based on their preferences and listening history. By leveraging advanced machine learning techniques and user-item interaction data, the system aims to bridge the gap between users and their next favorite song. The project explores various recommendation models, evaluates their effectiveness, and highlights the best approaches for making accurate and meaningful song suggestions.
 
-Link to Project - [Colab](https://github.com/EitanBakirov/advanced-ml-dl-course/blob/main/final-project/recommendation-system-project-group-4-enhanced.ipynb) (click on the "Open in Colab" at the top of the file to run the project)
+Link to Project - [Colab](https://github.com/EitanBakirov/music-recommendation-system/blob/main/recommendation-system-project-group-4-enhanced.ipynb) (click on the "Open in Colab" at the top of the file to run the project)
 
 ## Group Members
 - **Ariel Hedvat**
